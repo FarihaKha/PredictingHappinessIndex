@@ -1,5 +1,3 @@
-# Predicting Happiness Index Using Machine Learning
-
 # World Happiness Report: Machine Learning Analysis
 
 ![image](https://github.com/user-attachments/assets/d83bb320-a5ce-4222-8b1d-7d2235881dac)
