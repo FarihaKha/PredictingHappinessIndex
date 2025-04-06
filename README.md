@@ -2,7 +2,7 @@
 
 # World Happiness Report: Machine Learning Analysis
 
-![Happiness Visualization](https://via.placeholder.com/800x400.png?text=Happiness+Analysis)
+![image](https://github.com/user-attachments/assets/d83bb320-a5ce-4222-8b1d-7d2235881dac)
 
 ## Project Overview
 This project analyzes the World Happiness Report dataset to predict life satisfaction scores ("Happiness") based on socioeconomic factors. Using various machine learning techniques, we identify key drivers of happiness and build predictive models to quantify their impact.
@@ -45,13 +45,13 @@ This project analyzes the World Happiness Report dataset to predict life satisfa
   1. Social Support
   2. GDP per capita
   3. Healthy Life Expectancy
-- Random Forest achieved best performance (RMSE=0.358, R²=0.901)
+- Random Forest achieved best performance (RMSE = 0.358, R² = 0.901)
 - Income inequality (Gini index) showed complex dual impact
 
 ## How to Run
 1. Clone repository
 2. Install requirements: `pip install -r requirements.txt`
-3. Run Jupyter notebook: `jupyter notebook Lab8_World_Happiness_Analysis.ipynb`
+3. Run Jupyter notebook: `jupyter notebook DefineAndSolveMLProblem.ipynb`
 
 ## Dependencies
 - Python 3.9+
